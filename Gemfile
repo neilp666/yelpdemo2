@@ -14,6 +14,7 @@ gem 'fog'
 gem 'figaro'
 gem "mini_magick"
 gem "devise"
+gem 'searchkick'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
